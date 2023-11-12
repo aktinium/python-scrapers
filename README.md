@@ -24,7 +24,7 @@ To use the web scrapers in this repository, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd python-web-scrapers
+   cd python-scrapers
    ```
 3. Install the required dependencies:
    ```bash
